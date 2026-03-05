@@ -43,3 +43,10 @@ Temporal Smoothing: Anesthesia depth does not change instantaneously. Applying a
 Deep Learning: Implementing an LSTM (Long Short-Term Memory) network to capture the sequential dependencies of the EEG signal.
 
 Artifact Rejection: Advanced EOG/EMG artifact removal to further clean the signals during the "Awake" phases.
+
+## Usage
+```
+pip install -r requirements.txt
+```
+
+After installing all dependencies, open `eeg_bis_pipeline.ipynb` in VS Code or Jupyter Notebook and click "Run All".
