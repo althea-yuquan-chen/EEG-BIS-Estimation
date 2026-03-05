@@ -13,4 +13,3 @@ __pycache__/
 # 忽略 Jupyter Notebook 自动保存的检查点
 .ipynb_checkpoints/
 
-.gitignore
